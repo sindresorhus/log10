@@ -1,0 +1,43 @@
+{
+  "name": "log10",
+  "version": "0.0.0",
+  "description": "ES6 Math.log10() ponyfill",
+  "license": "MIT",
+  "repository": "sindresorhus/log10",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "es6",
+    "es2015",
+    "ecmascript",
+    "harmony",
+    "ponyfill",
+    "polyfill",
+    "shim",
+    "number",
+    "math",
+    "log10",
+    "log",
+    "logarithm"
+  ],
+  "dependencies": {
+    "is-finite": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "0.0.4",
+    "number-is-nan": "^1.0.0",
+    "positive-zero": "^1.0.0"
+  }
+}
