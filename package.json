@@ -1,6 +1,6 @@
 {
   "name": "log10",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ES6 Math.log10() ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/log10",
