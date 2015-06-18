@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "ava": "0.0.4",
+    "float-equal": "^1.0.0",
     "number-is-nan": "^1.0.0",
     "positive-zero": "^1.0.0"
   }
