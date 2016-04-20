@@ -1,7 +1,7 @@
 {
   "name": "log10",
   "version": "1.0.0",
-  "description": "ES6 Math.log10() ponyfill",
+  "description": "ES2015 Math.log10() ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/log10",
   "author": {
@@ -19,10 +19,7 @@
     "index.js"
   ],
   "keywords": [
-    "es6",
     "es2015",
-    "ecmascript",
-    "harmony",
     "ponyfill",
     "polyfill",
     "shim",

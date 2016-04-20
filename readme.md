@@ -1,6 +1,6 @@
 # log10 [![Build Status](https://travis-ci.org/sindresorhus/log10.svg?branch=master)](https://travis-ci.org/sindresorhus/log10)
 
-> ES6 [`Math.log10()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10) ponyfill
+> ES2015 [`Math.log10()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10) ponyfill
 
 > Ponyfill: A polyfill that doesn't overwrite the native method
 
