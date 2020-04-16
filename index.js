@@ -1,4 +1,4 @@
 'use strict';
-module.exports = Math.log10 || function (x) {
+module.exports = function (x) {
 	return Math.log(x) * Math.LOG10E;
 };
