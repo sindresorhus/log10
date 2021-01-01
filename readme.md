@@ -1,4 +1,4 @@
-# log10 [![Build Status](https://travis-ci.com/sindresorhus/log10.svg?branch=master)](https://travis-ci.com/sindresorhus/log10)
+# log10
 
 > ES2015 [`Math.log10()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10) [ponyfill](https://ponyfill.com)
 
